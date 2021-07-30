@@ -1,2 +1,2 @@
 # python-simple-web-app
-Simple Web Application just DevSecOps pipeline :)
+Simple Web Application just DevOps pipeline :)
